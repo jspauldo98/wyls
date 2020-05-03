@@ -26,8 +26,10 @@ List information about the FILEs (the current directory by default). Listing is 
 
 ### Options
 
+```
 -h, human readable size
 -n, list numeric user and group IDs
+```
 
 ## Examples
 ```bash
